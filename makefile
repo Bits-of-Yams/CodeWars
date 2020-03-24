@@ -15,9 +15,7 @@ clean:
 	$(RM) *.o
 	$(RM) binaryArrayToInt
 
-
+# COMMENTS
 # $@ rulle name variable
 # $< first dependency variable
-# $^ second dependency variable
-#
-#
+# $^ all dependencies variable
